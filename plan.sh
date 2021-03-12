@@ -1,6 +1,6 @@
 pkg_name="runc"
 pkg_origin="core"
-pkg_version=1.0.0-rc10
+pkg_version=1.0.0-rc93
 pkg_description="CLI tool for spawning and running containers according to the OCI specification"
 pkg_upstream_url="https://www.opencontainers.org/"
 pkg_license=('Apache-2.0')
